@@ -15,6 +15,6 @@
 
 --- 
 # Currently Working On:
-MarketSight:
+MarketSight: MarketSight is a Python-powered analytics platform that backtests trading strategies, visualizes performance, and integrates with real financial APIs like Yahoo query and Alpaca. This will be a way for users to actively create strategy with AI assisting them in their future endeavors
 
 
