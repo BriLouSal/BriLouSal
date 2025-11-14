@@ -14,6 +14,12 @@
 [![](https://visitcount.itsvg.in/api?id=BriLouSal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 --- 
+
+
+
+# Plans: Hackathons
+Netural News Network: A Django Project that will deliver netural news that will deliberatly remove biases and allow users to be informed on divisive issues, and topics. We'll also have a AI-powered referee in order that will work in the back-end to check the user's community messages and determine reliability meter, I will be using Claude AI to generate prompts and use Machine Learning to predict if the users words are considered reliable, etc.
+
 # Currently Working On:
 MarketSight: MarketSight is a Python-powered analytics platform that backtests trading strategies, visualizes performance, and integrates with real financial APIs like Yahoo query and Alpaca. This will be a way for users to actively create strategy with AI assisting them in their future endeavors. MarketSight will bring in news analysis to determine the current outlook of the company, and their recent media stunt, and also a catalyst for the Stock in the future (Or what would cause the stock price of the stock to increase or decrease dramatically depending on the statisic such as the Job Market Report, or CPI Data reports...)
 
