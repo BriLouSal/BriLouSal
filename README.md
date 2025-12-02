@@ -16,7 +16,4 @@
 
 
 
-# Plans: Hackathons
-Netural News Network: A Django Project that will deliver netural news that will deliberatly remove biases and allow users to be informed on divisive issues, and topics. We'll also have a AI-powered referee in order that will work in the back-end to check the user's community messages and determine reliability meter, I will be using Claude AI to generate prompts and use Machine Learning to predict if the users words are considered reliable, etc. It shall be similar to my Financial News Analysis in MarketSight that will use Claude prompt as the training data, and plan to use many convoluted functions in order to make my goals come true
-
 
