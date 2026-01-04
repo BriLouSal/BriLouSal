@@ -12,4 +12,7 @@
 [![](https://visitcount.itsvg.in/api?id=BriLouSal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+# Working on:
+# Finishing MarketSight: Few more UI/UX and some features and I should be able to submit it into my hackathon
+# Starting Neural News Network 
+# GH-900 Certification and Azure certification.
