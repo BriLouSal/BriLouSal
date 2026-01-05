@@ -16,3 +16,4 @@
 # Finishing MarketSight: Few more UI/UX and some features and I should be able to submit it into my hackathon
 # Starting Neural News Network 
 # GH-900 Certification and Azure certification.
+# Training DSA
