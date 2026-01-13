@@ -15,7 +15,4 @@
 
 # Working on:
 # Finishing MarketSight: Few more UI/UX and some features and I should be able to submit it into my hackathon. I've also got the Bullish indicator working :) (All in DEMO: MarketSight)
-
-# Starting Neural News Network 
 # GH-900 Certification and Azure certification.
-# Training DSA
