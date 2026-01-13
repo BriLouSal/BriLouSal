@@ -14,5 +14,5 @@
 
 
 # Working on:
-# Finishing MarketSight: Few more UI/UX and some features and I should be able to submit it into my hackathon. I've also got the Bullish indicator working :) (All in DEMO: MarketSight)
+# Finishing MarketSight:  (All in DEMO: MarketSight). Working on finishing touch, fixing front-ends, and adding more models to my stock to give users more information on their investment plans :)
 # GH-900 Certification and Azure certification.
