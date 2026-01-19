@@ -15,5 +15,5 @@
 
 
 # Working on:
-# Finishing MarketSight:  (All in DEMO: MarketSight). Working on finishing touch, fixing front-ends, and adding more models to my stock to give users more information on their investment plans :)
+# Finishing MarketSight: Almost done, we're just adding more data models to it and we're probably gonna use Docker + Azure to host the website
 # GH-900 Certification and Azure certification.
