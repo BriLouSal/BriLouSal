@@ -17,3 +17,6 @@
 # Working on:
 # Finishing MarketSight: Almost done, we're just adding more data models to it and we're probably gonna use Docker + Azure to host the website
 # GH-900 Certification and Azure certification.
+
+# Starting a New Project:
+# RoboSight
