@@ -19,4 +19,4 @@
 # GH-900 Certification and Azure certification.
 
 # Starting a New Project:
-# RoboSight
+# Kentro Cherma: A centralized investment platform for users to have all of their investment portfolio in one single app.
