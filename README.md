@@ -1,8 +1,9 @@
 # Name: Brian Salinas
 # Age: 19 
 # January 16, 2007
-# About Me: Hi!!!! I am a first year @ University of Calgary, and, mostly focused on Fintech applications such as my MarketSight, and my future project: RoboSight, a Robo Market Advisor. You'll see a lot of interesting project from me, and I hope it'll be impressive enough hahaha.
-# Finished Project: MarketSight, we're planning to make it public soon, and I will be using Docker + Azure to host the website 
+# About Me: Hello, I am a first year @ University of Calgary, and, mostly focused on Fintech applications such as my MarketSight, and my current work: KentroCherma.
+# Starting a New Project:
+# Kentro Cherma: A centralized investment platform for users to have all of their investment portfolio in one single app. 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) </p>
 
@@ -18,5 +19,4 @@
 # Working on:
 # GH-900 Certification and Azure certification.
 
-# Starting a New Project:
-# Kentro Cherma: A centralized investment platform for users to have all of their investment portfolio in one single app.
+
