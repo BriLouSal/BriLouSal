@@ -18,6 +18,6 @@
 
 
 # Working on:
-# GH-900 Certification and Azure certification.
+# KentroCherma New Features: Agentic AI and Marine Traffic Analyis :)
 
 
