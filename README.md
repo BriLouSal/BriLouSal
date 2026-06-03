@@ -22,5 +22,6 @@
 
 # Working on:
 # KentroCherma New Features: Agentic AI and Marine Traffic Analyis :)
+<img width="1893" height="666" alt="Screenshot 2026-06-01 220402" src="https://github.com/user-attachments/assets/911767fe-31b1-4846-945e-eb74574226d6" />
 
 
