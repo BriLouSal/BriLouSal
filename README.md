@@ -11,14 +11,6 @@
 ![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Gunicorn Badge](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=for-the-badge)
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BriLouSal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BriLouSal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BriLouSal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=BriLouSal&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 # Working on:
 # KentroCherma New Features: Agentic AI and Marine Traffic Analyis :)
