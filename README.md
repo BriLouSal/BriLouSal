@@ -1,7 +1,7 @@
 # Name: Brian Salinas
 # Age: 19 
 # January 16, 2007
-# About Me: Hello, I am a first year @ University of Calgary, and, mostly focused on Fintech applications such as my MarketSight, and my current work: KentroCherma.
+# About Me: Hello, I am a first year Computer Science @ University of Calgary, and uhh I love building stuff haha that's about it hehe
 # In Production:
 # Kentro Cherma: A centralized investment platform for users to have all of their investment portfolio in one single app. 
 # https://www.kentrocherma.me
