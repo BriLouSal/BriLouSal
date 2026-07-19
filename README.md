@@ -17,4 +17,4 @@
 # KentroCherma New Features: Stock Relationship Mapping and Marine Traffic
 <img width="1878" height="817" alt="Screenshot 2026-06-28 230553" src="https://github.com/user-attachments/assets/6cf52efe-bc8d-4413-b17c-45972e73352e" />
 <img width="1913" height="850" alt="Screenshot 2026-07-16 215652" src="https://github.com/user-attachments/assets/29c44396-ec3d-4078-bb0c-80ab743f4e4d" />
-
+<img width="797" height="622" alt="Screenshot 2026-07-19 005544" src="https://github.com/user-attachments/assets/1c9a40d8-8901-4b38-887e-84d6ce7db94f" />
