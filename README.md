@@ -1,6 +1,5 @@
 # Name: Brian Salinas
-# Age: 19 
-# January 16, 2007
+# Age: 19 , January 16, 2007
 # In Production:
 # Kentro Cherma: A centralized investment platform for users to have all of their investment portfolio in one single app. 
 # https://www.kentrocherma.me
