@@ -10,7 +10,7 @@
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) ![Locust Badge](https://img.shields.io/badge/Locust-B8EE4B?logo=locust&logoColor=000&style=for-the-badge) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ## AI Stack:
-![Anthropic Badge](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff&style=for-the-badge) ![OpenAI Gym Badge](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=for-the-badge) ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) 
+![Anthropic Badge](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff&style=for-the-badge) ![OpenAI Gym Badge](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=for-the-badge) ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 </p>
 
 
